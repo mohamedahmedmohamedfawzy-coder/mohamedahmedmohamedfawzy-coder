@@ -2,10 +2,6 @@
   Welcome to Mohamed Ahmed Mohamed Fawzy's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=full-stack%20Web%20Developer%20in%20Progress;Building%20cool%20stuff%20with%20code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&size=22">
@@ -57,5 +53,8 @@
 
 <a href="https://www.linkedin.com/in/mohamed-ahmed-b038012b1" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
 <a href="mailto:mohamedahmedmohamedfawzy@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> 
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 

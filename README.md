@@ -1,4 +1,8 @@
-## Hi there 👋
+<h3 align="center">
+  Welcome to Mohamed Ahmed Mohamed Fawzy's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -16,14 +20,6 @@
 🌍 Future portfolio coming soon — stay tuned!
 
 ---
-### Connect with Me :
-<a href="https://www.linkedin.com/in/mohamed-ahmed-b038012b1" target="_blank">
-  <img src="https://img.shields.io/badge/-Salah%20Eddine%20Zouagri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohamedahmedmohamedfawzy@gmail.com
-" target="_blank">
-  <img src="https://img.shields.io/badge/-salah.zouagri98@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -50,5 +46,15 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedahmedmohamedfawzy-coder&show_icons=true&theme=react" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmedmohamedfawzy-coder&layout=compact&theme=react" height="150"/>
+</p>
+### Connect with Me :
+
+<a href="https://www.linkedin.com/in/mohamed-ahmed-b038012b1" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
+<a href="mailto:mohamedahmedmohamedfawzy@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> 
 
 

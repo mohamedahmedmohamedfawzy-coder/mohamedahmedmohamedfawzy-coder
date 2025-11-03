@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 **mohamedahmedmohamedfawzy-coder/mohamedahmedmohamedfawzy-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

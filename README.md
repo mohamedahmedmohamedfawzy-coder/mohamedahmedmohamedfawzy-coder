@@ -4,7 +4,7 @@
 </h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=full-stack%20Web%20Developer%20in%20Progress;Building%20cool%20stuff%20with%20code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer%20in%20Progress;Building%20cool%20stuff%20with%20code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p> 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
@@ -43,18 +43,17 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-## 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedahmedmohamedfawzy-coder&show_icons=true&theme=react" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmedmohamedfawzy-coder&layout=compact&theme=react" height="150"/>
 </p>
-### Connect with Me :
+Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamed-ahmed-b038012b1" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
 <a href="mailto:mohamedahmedmohamedfawzy@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 

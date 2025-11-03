@@ -8,4 +8,18 @@
   </a>
 </p> 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+💻 I'm currently diving deep into full-stack web development using **ASP.NET** and **React**.  
+🎯 Focused on becoming a **junior full-stack developer** ready to build scalable, modern applications.  
+📚 Learning **JavaScript**, **C#**, **SQL**, and **modern web tools** step by step.  
+☕ Fun Fact: I love solving problems late at night (with coffee, of course!).  
+🌍 Future portfolio coming soon — stay tuned!
+
+---
+
+### 🛠️ Tech Stack
+- Frontend: React, HTML, CSS, JavaScript  
+- Backend: ASP.NET Core  
+- Database: SQL Server  
+- Tools: Git, GitHub, VS Code, Visual Studio
+
 
